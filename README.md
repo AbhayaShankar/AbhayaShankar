@@ -19,6 +19,7 @@
 - 💬 Ask me about **Html, Css , Javascript, Workout-routines/diet plans, Motivations**
 
 - 📫 How to reach me **shankarabhaya9@gmail.com**
+- Connect with me on Linkedin :  **http://www.linkedin.com/in/abhayashankar**
 
 - ⚡ Fun fact **I love Chicken.**
 
