@@ -8,22 +8,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhayashankar" alt="abhayashankar" /></a> </p>
 
-- 🔭 I’m currently working on [Fitness Hub - A website for my Gym](https://github.com/AbhayaShankar/Fitness-Hub)
 
 - 🌱 I’m currently learning **React and Nextjs**
 
 - 👯 I’m looking to collaborate on **Freelances**
 
-- 🤝 I’m looking for help with **Expanding my reach and connections.**
-
-- 💬 Ask me about **Html, Css , Javascript, Workout-routines/diet plans, Motivations**
+- 💬 Ask me about **Html, Css , Javascript, React, Workout-routines/diet plans, Motivations**
 
 - 📔 Contributing to Open source as much as I can. 
 
 - 📫 How to reach me **shankarabhaya9@gmail.com**
 - Connect with me on Linkedin :  **http://www.linkedin.com/in/abhayashankar**
 
-- ⚡ Fun fact **I love Chicken.**
+- ⚡ Fun fact **I am pretty sure I can beat you at 3/5 games you choose..😁😁😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
