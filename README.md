@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **shankarabhaya9@gmail.com**
 
-- Connect with me on Linkedin :  **http://www.linkedin.com/in/abhayashankar**
+- 🔗 Connect with me on Linkedin :  **http://www.linkedin.com/in/abhayashankar**
 
-- Have an Idea regarding project, Let's talk on : **https://twitter.com/AbhayaShankar2**
+- 🦜 Have an Idea regarding project, Let's talk on : **https://twitter.com/AbhayaShankar2**
 
 - ⚡ Fun fact **I am pretty sure I can beat you at 3/5 sports you choose..😁😁😁**
 
