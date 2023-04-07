@@ -9,9 +9,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhayashankar" alt="abhayashankar" /></a> </p>
 
 
-- 🌱 I’m currently learning **React and Nextjs**
+- 🌱 I’m currently adding **Nextjs** to my arsenal , what are you adding to yours?
 
-- 👯 I’m looking to collaborate on **Freelances**
+- 👯 I’m looking to collaborate on **Freelance Projects**
 
 - 💬 Ask me about **Html, Css , Javascript, React, Workout-routines/diet plans, Motivations**
 
@@ -22,6 +22,8 @@
 - 🔗 Connect with me on Linkedin :  **http://www.linkedin.com/in/abhayashankar**
 
 - 🦜 Have an Idea regarding project, Let's talk on : **https://twitter.com/AbhayaShankar2**
+
+- 🚀 All my contributions on Github are genuine. 🫡
 
 - ⚡ Fun fact **I am pretty sure I can beat you at 3/5 sports you choose..😁😁😁**
 
