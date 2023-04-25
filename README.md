@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhaya Shankar</h1>
 <h3 align="center">I am a Passionate Web Developer, a Weeb, all-sports-fan and a Gym freak.</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayashankar&label=Profile%20views&color=0e75b6&style=flat" alt="abhayashankar" /> </p>
 
@@ -34,8 +34,25 @@
 <a href="https://www.instagram.com/abhaya_shankar05/" rel="nofollow"><img src="https://camo.githubusercontent.com/744f5586e9eee9ca48c84aa31a04cbc28fa9da0359eba6856cc26ce041db3031/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4531333036433f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Dev.to Badge" data-canonical-src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://twitter.com/AbhayaShankar2" rel="nofollow"><img src="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"  style="margin-right: 40px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/  style="margin-right: 150px"> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h3 align="left">My Arsenal:</h3>
+<p align="left"> 
+
+<a href="#"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100"/></a>
+<a href="#"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=lime&labelColor=black&color=236b23"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&labelColor=black&color=1CA1B8"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&&logoColor=white&labelColor=black&color=2E2E2E"/></a>
+
+
+<a href="#"><img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/></a>
+<a href="#"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma&labelColor=black&color=eb3471"/></a>
+
+
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayashankar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abhayashankar" /></p>
 
