@@ -1,8 +1,8 @@
-
-
 <h1 align="center">Hi 👋, I'm Abhaya Shankar</h1>
 <h3 align="center">I am a Professional Web Developer 🧑‍💻, a Weeb , all-sports-fan ⛹️‍♂️ and a Gym freak 💪.</h3>
+<center>
 <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayashankar&label=Profile%20views&color=0e75b6&style=flat" alt="abhayashankar" /> </p>
 
