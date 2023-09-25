@@ -7,8 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayashankar&label=Profile%20views&color=0e75b6&style=flat" alt="abhayashankar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhayashankar" alt="abhayashankar" /></a> </p>
-
-
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhayashankar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 - 🌱 I’m currently adding **Nextjs** to my arsenal , what are you adding to yours?
 
 - 👯 I’m looking to collaborate on **Freelance Projects**
