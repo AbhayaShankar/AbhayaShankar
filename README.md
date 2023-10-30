@@ -10,11 +10,11 @@
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhayashankar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-- 🌱 I’m currently adding **Nextjs** to my arsenal , what are you adding to yours?
+- 🌱 I’m currently adding **TypeScript** to my arsenal, and learning **Backend** 🤩 what are you adding to yours?
 
-- 👯 I’m looking to collaborate on **Freelance Projects**
+- 👯 I’m looking to collaborate on **Freelance Projects.**
 
-- 💬 Ask me about **Html, Css , Javascript, React, Workout-routines/diet plans, Motivations**
+- 💬 Ask me about **Html, Css , Javascript, React, NextJs and Workout-routines/diet plans, Motivations**
 
 - 📔 Contributing to Open source as much as I can. 
 
@@ -25,6 +25,8 @@
 - 🦜 Have an Idea regarding project, Let's talk on : **https://twitter.com/AbhayaShankar2**
 
 - 🚀 All my contributions on Github are genuine. 🫡
+
+- Checkout my [Portfolio Website](www.abhayashankar.com) 🔥 
 
 - ⚡ Fun fact **I am pretty sure I can beat you at 3/5 sports you choose..😁😁😁**
 
