@@ -26,7 +26,7 @@
 
 - 🚀 All my contributions on Github are genuine. 🫡
 
-- Checkout my [Portfolio Website](www.abhayashankar.com) 🔥 
+- Checkout my [Portfolio Website](https://www.abhayashankar.com) 🔥 
 
 - ⚡ Fun fact **I am pretty sure I can beat you at 3/5 sports you choose..😁😁😁**
 
