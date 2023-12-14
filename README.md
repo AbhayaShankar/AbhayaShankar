@@ -35,7 +35,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhayashankar)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbhayaShankar2)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhaya_shankar05/)
-[![Website Badge](https://img.shields.io/badge/Portfolio-030303?style=for-the-badge&logo=artixlinux&logoColor=white)](https://abhayashankar.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/Portfolio-030303?style=for-the-badge&logo=artixlinux&logoColor=white)](https://abhayashankar.com)
 
 
 
