@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhaya Shankar</h1>
-<h3 align="center">I am a Professional Web Developer 🧑‍💻, a Weeb , all-sports-fan ⛹️‍♂️ and a Gym freak 💪.</h3>
-<div style={{display: "flex" , alignItems: "center", justifyContent: "center", width: "100%"}}>
-  <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
-
+<h3 align="center">Professional Web Developer 🧑‍💻, Weeb , All-Sports-fan ⛹️‍♂️ and a Gym freak 💪.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayashankar&label=Profile%20views&color=0e75b6&style=flat" alt="abhayashankar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhayashankar" alt="abhayashankar" /></a> </p>
+<p align="center" > <a href="https://github.com/AbhayaShankar"><img src="https://github-profile-trophy.vercel.app/?username=abhayashankar" alt="abhayashankar" /></a> </p>
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhayashankar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
