@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhaya Shankar</h1>
-<h3 align="center">Professional Web Developer 🧑‍💻, Weeb , All-Sports-fan ⛹️‍♂️ and a Gym freak 💪.</h3>
+<h3 align="center">Full Stack Web Developer 🧑‍💻, Weeb , All-Sports-fan ⛹️‍♂️ and a Gym freak 💪.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayashankar&label=Profile%20views&color=0e75b6&style=flat" alt="abhayashankar" /> </p>
 <p align="center" > <a href="https://github.com/AbhayaShankar"><img src="https://github-profile-trophy.vercel.app/?username=abhayashankar" alt="abhayashankar" /></a> </p>
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhayashankar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-- 🌱 I’m currently adding **TypeScript** to my arsenal, and learning **Backend** 🤩 what are you adding to yours?
+- 🌱 I’m currently adding **Web Sockets and Web RTC** to my arsenal, and exploring **Backend** 🤩 what are you adding to yours?
 
 - 👯 I’m looking to collaborate on **Freelance Projects.**
 
@@ -47,12 +47,12 @@
 <a href="#"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript&labelColor=00497a&color=1DA1F2"/></a>
 <a href="#"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&&logoColor=white&labelColor=black&color=2E2E2E"/></a>
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=black&color=409040"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&color=1f1f1f"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=lime&labelColor=black&color=236b23"/></a>
-
 
 
 
